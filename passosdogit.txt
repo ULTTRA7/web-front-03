@@ -1,0 +1,6 @@
+git status
+git add.
+git status
+git commit -m "nme do commit"
+git status
+git push original nome_branch
